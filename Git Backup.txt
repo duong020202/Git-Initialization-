@@ -5,5 +5,7 @@ Sau do dung lenh git revert ID de backup lai lan commit co ID tuong ung.
 Sau do bam ESC, tiep tuc bam shift + " : " va " q ".
 
 Xong.
+
+PS: de dong bo Git resitpotory voi local Git folder thi su dung lenh la Git pull.
  
 +++++++++++++++++++++++++++++++++++++**********************************************+++++++++++++++++++++++++++++++++++********************
