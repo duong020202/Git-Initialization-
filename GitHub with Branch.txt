@@ -1,4 +1,8 @@
 https://viblo.asia/p/nhung-lenh-git-co-ban-can-nho-V3m5W1OyZO7
 
+<<<<<<< HEAD
 Day la cac lenh co ban voi Git branch.
 
+=======
+Mot so cau lenh co ban voi Github su dung branch.
+>>>>>>> 2
