@@ -1,0 +1,11 @@
+Git clone https://github.com/duong020202/Git-Initialization-.git: De clone project ve may.
+
+Git status: Dung de check tracking file, nhung file nao moi them vao folder ma chua duoc add vao Git.
+
+Git add @TenFile or Git add * de add all new file moi duoc them vao folder.
+
+Sau khi git add co the check lai git status mot lan nua.
+
+Tuy nhien khi Git add thi file moi them vao chua duoc luu tru vao kho chua Local cua minh, de lam duoc viec nay co the su dung lenh
+Git commit de luu tru file. Git commit -m "Comment something here"
+
