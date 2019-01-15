@@ -9,3 +9,5 @@ Sau khi git add co the check lai git status mot lan nua.
 Tuy nhien khi Git add thi file moi them vao chua duoc luu tru vao kho chua Local cua minh, de lam duoc viec nay co the su dung lenh
 Git commit de luu tru file. Git commit -m "Comment something here"
 
+Tuy nhien luc nay file moi nay moi chi nam o kho nho local cua chung ta, de up len git chung ta co the chay lenh Git push
+
