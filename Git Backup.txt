@@ -1,5 +1,8 @@
 De xem thong tin ID nhung lan push commit truoc day, ta co the dung lenh: git log 
 
-sau do dung lenh git revert ID de backup lai lan commit co ID tuong ung. 
+Sau do dung lenh git revert ID de backup lai lan commit co ID tuong ung. 
 
-Back Up.
+Sau do bam ESC, tiep tuc bam shift + " : " va " q ".
+
+Xong.
++++++++++++++++++++++++++++++++++++++**********************************************+++++++++++++++++++++++++++++++++++********************
