@@ -11,3 +11,6 @@ Git commit de luu tru file. Git commit -m "Comment something here"
 
 Tuy nhien luc nay file moi nay moi chi nam o kho nho local cua chung ta, de up len git chung ta co the chay lenh Git push
 
+Co the gop 2 lenh git add va git commit vao chung mot lenh: Git commit -a -m "adding address"
+
+
