@@ -9,3 +9,6 @@ Xong.
 PS: de dong bo Git resitpotory voi local Git folder thi su dung lenh la Git pull.
  
 +++++++++++++++++++++++++++++++++++++**********************************************+++++++++++++++++++++++++++++++++++********************
+
+
+branch 1
